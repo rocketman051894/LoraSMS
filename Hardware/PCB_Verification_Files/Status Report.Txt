@@ -1,0 +1,10 @@
+Output: BoM_Review_NoDNPs
+Type  : BOM
+From  : Project [LoraSMS.PrjPcb]
+   Generated File[PCB_BoM_Review_NoDNPs.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:22:34 PM On 3/15/2021

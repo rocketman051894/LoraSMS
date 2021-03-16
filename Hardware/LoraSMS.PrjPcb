@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for LoraSMS
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 Template=C:\Users\Public\Documents\Altium\AD18\Templates\AviPCB_340-XXXXX-XXX.PrjPcb
@@ -128,40 +128,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNQFTUUI
 
-[Document6]
-DocumentPath=..\Kevin Library.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=..\Kevin Library.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SMMYJNGL
-
 [ProjectVariant1]
 UniqueID=2D4827A4-6FEB-43D1-9E26-E9E14CFD9568
 Description=DoNotPopulate
@@ -169,10 +135,6 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for LoraSMS\Design Rule Check - 340-XXXXX-XXX.html
-DItemRevisionGUID=
 
 [SearchPath1]
 Path=..\..\..\..\..\Engineering\Altium\Libraries\PCB\*.*
@@ -183,104 +145,104 @@ Path=E:\Altium_Lib_Temp\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=prj_par_310-----------------------------------------------------
-Value=
+Name=prj_par_Project_Name
+Value=LoraSMS
 
 [Parameter2]
-Name=prj_par_310_AviPrtNum
-Value=310-XXXXX-XXX(set in Prj Parameters)
+Name=prj_par_PCB_Name
+Value=Mainboard
 
 [Parameter3]
-Name=prj_par_310_ReleaseDate
-Value=XX/XX/XXXX(set in Prj Parameters)
+Name=prj_par_ConfProp_AvidyneCorp
+Value=
 
 [Parameter4]
-Name=prj_par_310_REV
-Value=D00A
+Name=prj_par_Address_AvidyneCorp
+Value=
 
 [Parameter5]
-Name=prj_par_330-----------------------------------------------------
-Value=
+Name=prj_par_360_REV
+Value=00
 
 [Parameter6]
-Name=prj_par_330_AviPrtNum
-Value=330-XXXXX-XXX(set in Prj Parameters)
+Name=prj_par_360_ReleaseDate
+Value=03/15/2021
 
 [Parameter7]
-Name=prj_par_330_ReleaseDate
-Value=XX/XX/XXXX(set in Prj Parameters)
-
-[Parameter8]
-Name=prj_par_330_REV
-Value=D00A
-
-[Parameter9]
-Name=prj_par_330_Sheet_Total
-Value=2(set in Prj Parameters)
-
-[Parameter10]
-Name=prj_par_340-----------------------------------------------------
-Value=
-
-[Parameter11]
-Name=prj_par_340_AviPrtNum
-Value=340-XXXXX-XXX(set in Prj Parameters)
-
-[Parameter12]
-Name=prj_par_340_ReleaseDate
-Value=XX/XX/XXXX(set in Prj Parameters)
-
-[Parameter13]
-Name=prj_par_340_REV
-Value=D00A
-
-[Parameter14]
-Name=prj_par_350-----------------------------------------------------
-Value=
-
-[Parameter15]
-Name=prj_par_350_AviPrtNum
-Value=350-XXXXX-XXX(set in Prj Parameters)
-
-[Parameter16]
-Name=prj_par_350_ReleaseDate
-Value=XX/XX/XXXX(set in Prj Parameters)
-
-[Parameter17]
-Name=prj_par_350_REV
-Value=D00A
-
-[Parameter18]
-Name=prj_par_360-----------------------------------------------------
-Value=
-
-[Parameter19]
 Name=prj_par_360_AviPrtNum
 Value=360-XXXXX-XXX(set in Prj Parameters)
 
+[Parameter8]
+Name=prj_par_360-----------------------------------------------------
+Value=
+
+[Parameter9]
+Name=prj_par_350_REV
+Value=00
+
+[Parameter10]
+Name=prj_par_350_ReleaseDate
+Value=03/15/2021
+
+[Parameter11]
+Name=prj_par_350_AviPrtNum
+Value=Fabrication
+
+[Parameter12]
+Name=prj_par_350-----------------------------------------------------
+Value=
+
+[Parameter13]
+Name=prj_par_340_REV
+Value=00
+
+[Parameter14]
+Name=prj_par_340_ReleaseDate
+Value=03/15/2021
+
+[Parameter15]
+Name=prj_par_340_AviPrtNum
+Value=PCB
+
+[Parameter16]
+Name=prj_par_340-----------------------------------------------------
+Value=
+
+[Parameter17]
+Name=prj_par_330_Sheet_Total
+Value=00
+
+[Parameter18]
+Name=prj_par_330_REV
+Value=00
+
+[Parameter19]
+Name=prj_par_330_ReleaseDate
+Value=03/15/2021
+
 [Parameter20]
-Name=prj_par_360_ReleaseDate
-Value=XX/XX/XXXX(set in Prj Parameters)
+Name=prj_par_330_AviPrtNum
+Value=Schematic
 
 [Parameter21]
-Name=prj_par_360_REV
-Value=D00A
+Name=prj_par_330-----------------------------------------------------
+Value=
 
 [Parameter22]
-Name=prj_par_Address_AvidyneCorp
-Value=Avidyne Corporation, 710 North Dr., Melbourne FL, 32934
+Name=prj_par_310_REV
+Value=00
 
 [Parameter23]
-Name=prj_par_ConfProp_AvidyneCorp
-Value=Confidential Property of Avidyne Corp - Not To Be Disclosed Without Permission
+Name=prj_par_310_ReleaseDate
+Value=03/15/2021
 
 [Parameter24]
-Name=prj_par_PCB_Name
-Value=PCB_Name(set in Prj Parameters)
+Name=prj_par_310_AviPrtNum
+Value=Assembly
 
 [Parameter25]
-Name=prj_par_Project_Name
-Value=Project_Name(set in Prj Parameters)
+Name=prj_par_310-----------------------------------------------------
+Value=
 
 [Configuration1]
 Name=Sources
@@ -392,7 +354,7 @@ SCH_PrintColor=0
 PrintQuality=-3
 
 [Generic_EDE]
-OutputDir=Project Outputs for LoraSMS
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -503,7 +465,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Canon Inkjet iP6700D
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
