@@ -1,0 +1,164 @@
+*************************************************************
+FileName = 340-XXXXX-XXX.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\l1\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\l1\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\l2\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\l2\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\l4\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\l4\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\p1\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\p1\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\l3\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\l3\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\p3\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\p3\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\p2\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\p2\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\p4\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\p4\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\p6\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\p6\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\p5\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\p5\attrlist
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect85.8268x78.7402_offset19.6063x15.9449\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect85.8268x78.7402_offset-19.6063x15.9449\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect85.8268x78.7402_offset-20.5906x27.9528\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect85.8268x78.7402_offset20.5906x27.9528\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect47.2441x43.3071_130\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect39.3701x37.4016_220\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect39.3701x37.4016_310\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect7.874x15.748_310\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect7.874x15.748_40\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect85.8268x78.7402_offset19.6063x15.9449\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect85.8268x78.7402_offset-19.6063x15.9449\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect85.8268x78.7402_offset-20.5906x27.9528\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect85.8268x78.7402_offset20.5906x27.9528\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect47.2441x43.3071_130\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect39.3701x37.4016_220\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect39.3701x37.4016_310\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect7.874x15.748_310\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect7.874x15.748_40\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect89.7638x82.6772_offset19.6063x15.9449\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect89.7638x82.6772_offset-19.6063x15.9449\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect89.7638x82.6772_offset-20.5906x27.9528\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect89.7638x82.6772_offset20.5906x27.9528\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect50.3937x46.4567_130\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect42.5197x40.5512_220\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect42.5197x40.5512_310\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect85.8268x78.7402_offset19.6063x15.9449\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect85.8268x78.7402_offset-19.6063x15.9449\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect85.8268x78.7402_offset-20.5906x27.9528\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect85.8268x78.7402_offset20.5906x27.9528\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect47.2441x43.3071_130\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect39.3701x37.4016_220\features
+
+Generated File : C:\Users\Kevin\Documents\Altium\LoraSMS\.\340-XXXXX-XXX(set in Prj Parameters)\ODB\odb\symbols\rect39.3701x37.4016_310\features
+
