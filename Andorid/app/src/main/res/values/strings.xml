@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoraSMS</string>
+    <string name="battery_level">Battery Leve: 0V</string>
+</resources>
