@@ -7,19 +7,19 @@ This project was created to bring walkie talkies to the new age of technology. T
 The current interface to the device is over bluetooth and through an Android app. 
 This project is stil very much in development and is not working as of yet. 
 
-##Hardware: 
+## Hardware: 
 These project files were created in Altium
 - First board made
 - Reworks added
 - Working on second rev
 
-##Firmware:
+## Firmware:
 This was created in Atmel Studio
 - [x] Bluetooth interface
 - [x] Battery Level
 - [ ] Curent Monitor
 - [ ] Lora SPI interface
 
-##Android:
+## Android:
 Code written in Android Studio
 - First stab
