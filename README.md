@@ -23,3 +23,6 @@ This was created in Atmel Studio
 ## Android:
 Code written in Android Studio
 - First stab
+
+## Mechanical:
+Case for PCB board
