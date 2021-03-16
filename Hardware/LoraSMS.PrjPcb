@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for LoraSMS
 LogFolderPath=
 ManagedProjectGUID=
 Template=C:\Users\Public\Documents\Altium\AD18\Templates\AviPCB_340-XXXXX-XXX.PrjPcb
@@ -44,24 +44,7 @@ ReleaseFolderPath=\
 ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
-DocumentPath=330-XXXXX-XXX.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XLANWJXH
-
-[Document2]
-DocumentPath=340-XXXXX-XXX.OutJob
+DocumentPath=LoraSMS.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -77,7 +60,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
+[Document2]
 DocumentPath=01 - Main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -94,8 +77,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOPMATWT
 
-[Document4]
-DocumentPath=340-XXXXX-XXX.PcbDoc
+[Document3]
+DocumentPath=LoraSMS.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -111,8 +94,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FJPMKULE
 
-[Document5]
-DocumentPath=340-XXXXX-XXX.PcbLib
+[Document4]
+DocumentPath=LoraSMS.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -126,7 +109,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DNQFTUUI
+DocumentUniqueId=MBVUUQYK
+
+[Document5]
+DocumentPath=LoraSMS.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VPFMGLBQ
 
 [ProjectVariant1]
 UniqueID=2D4827A4-6FEB-43D1-9E26-E9E14CFD9568
@@ -354,7 +354,7 @@ SCH_PrintColor=0
 PrintQuality=-3
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for LoraSMS
 
 [OutputGroup1]
 Name=Netlist Outputs
