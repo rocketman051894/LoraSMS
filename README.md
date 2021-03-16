@@ -7,6 +7,8 @@ This project was created to bring walkie talkies to the new age of technology. T
 The current interface to the device is over bluetooth and through an Android app. 
 This project is stil very much in development and is not working as of yet. 
 
+![alt text](https://github.com/rocketman051894/LoraSMS/blob/main/Hardware/Board.PNG?raw=true)
+
 ## Hardware: 
 These project files were created in Altium
 - First board made
